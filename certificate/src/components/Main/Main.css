@@ -1,0 +1,41 @@
+h3 {
+  font-size: 30px;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  transition: 700ms ease;
+  font-variation-settings: "wght" 311;
+  margin-bottom: 0.8rem;
+  color: PaleGoldenRod;
+  outline: none;
+  text-align: center;
+}
+
+h3:hover {
+  font-variation-settings: "wght" 582; 
+  letter-spacing: 1px;
+}
+
+.topnav {
+  background-color: #262729; /* Darker background color */
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #ed5605;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 16px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.topnav a:hover {
+  background-color: #34495e; /* Slightly darker background on hover */
+  color: #ffffff;
+}
+
+.topnav a.active {
+  background-color: #27ae60; /* Dark green color for active link */
+  color: #ffffff;
+}

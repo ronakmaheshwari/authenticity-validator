@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/authenticity-validator/static/css/main.e056f58d.css",
+    "main.js": "/authenticity-validator/static/js/main.f60ebc9d.js",
+    "static/media/Logo.png": "/authenticity-validator/static/media/Logo.da25ff1e3ac3440e6b72.png",
+    "index.html": "/authenticity-validator/index.html",
+    "main.e056f58d.css.map": "/authenticity-validator/static/css/main.e056f58d.css.map",
+    "main.f60ebc9d.js.map": "/authenticity-validator/static/js/main.f60ebc9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e056f58d.css",
+    "static/js/main.f60ebc9d.js"
+  ]
+}

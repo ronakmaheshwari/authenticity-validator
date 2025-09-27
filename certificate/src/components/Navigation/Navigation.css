@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.rightAligned {
+  display: flex;
+  gap: 20px;
+  padding-right: 10px;
+}
